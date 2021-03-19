@@ -74,7 +74,7 @@ For more code details, click _"Open in Colab"_.
 
 &nbsp;
 
-### [Baseline 1]()
+### [Baseline 1](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/cnn.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/cnn.ipynb)
 
@@ -107,7 +107,7 @@ Test Loss: 0.45 | Test Acc: 79.47%
 
 &nbsp;
 
-### [Baseline 2]()
+### [Baseline 2](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bilstm.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bilstm.ipynb)
 
@@ -146,7 +146,7 @@ The two baseline models above were experimented under the same condition. Althou
 
  &nbsp;
 
-### [BERT]()
+### [BERT](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
 
 The final model to be experimented was BERT. The batch size was consistently 128.
