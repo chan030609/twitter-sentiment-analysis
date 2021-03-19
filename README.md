@@ -26,7 +26,7 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 
 ### Source Code
 
-[bert.ipynb]()
+[bert.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
 
 [bilstm.ipynb]()
 
