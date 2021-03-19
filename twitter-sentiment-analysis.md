@@ -1,8 +1,8 @@
 # **Sentiment Analysis in Twitter using Deep Neural Network**
 
-JL
+J.L.
 
-Date: Jan 15, 2021
+Date: Mar 19, 2021
 
 &nbsp;
 
