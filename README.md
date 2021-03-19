@@ -45,5 +45,4 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 
 ## License
 
-[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
