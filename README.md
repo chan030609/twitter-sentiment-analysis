@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-JL
+J.L.
 
 Date: Mar 19, 2021
 
