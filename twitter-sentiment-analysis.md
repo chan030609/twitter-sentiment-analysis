@@ -155,25 +155,25 @@ After 5 epochs of training, both the validation accuracy and the test accuracy w
 
 ```
 [Train Result]
-Epoch: 01 | Epoch Time: 2m 43s
-	Train Loss: 0.471 | Train Acc: 77.31%
-	 Val. Loss: 0.419 |  Val. Acc: 80.91%
-Epoch: 02 | Epoch Time: 2m 43s
-	Train Loss: 0.407 | Train Acc: 81.48%
-	 Val. Loss: 0.391 |  Val. Acc: 82.37%
-Epoch: 03 | Epoch Time: 2m 43s
-	Train Loss: 0.386 | Train Acc: 82.87%
-	 Val. Loss: 0.399 |  Val. Acc: 82.22%
-Epoch: 04 | Epoch Time: 2m 43s
-	Train Loss: 0.364 | Train Acc: 83.96%
-	 Val. Loss: 0.403 |  Val. Acc: 82.63%
-Epoch: 05 | Epoch Time: 2m 42s
-	Train Loss: 0.342 | Train Acc: 84.94%
-	 Val. Loss: 0.406 |  Val. Acc: 82.44%
+Epoch: 01 | Epoch Time: 5m 3s
+	Train Loss: 0.481 | Train Acc: 76.65%
+	 Val. Loss: 0.415 |  Val. Acc: 80.78%
+Epoch: 02 | Epoch Time: 5m 7s
+	Train Loss: 0.415 | Train Acc: 81.13%
+	 Val. Loss: 0.402 |  Val. Acc: 82.18%
+Epoch: 03 | Epoch Time: 5m 8s
+	Train Loss: 0.392 | Train Acc: 82.35%
+	 Val. Loss: 0.395 |  Val. Acc: 82.11%
+Epoch: 04 | Epoch Time: 5m 7s
+	Train Loss: 0.371 | Train Acc: 83.57%
+	 Val. Loss: 0.395 |  Val. Acc: 82.77%
+Epoch: 05 | Epoch Time: 5m 8s
+	Train Loss: 0.350 | Train Acc: 84.59%
+	 Val. Loss: 0.405 |  Val. Acc: 83.01%
 ```
 ```
 [Test Result]
-Test Loss: 0.396 | Test Acc: 82.94%
+Test Loss: 0.386 | Test Acc: 82.79%
 ```
 BERT turned out much less time efficient than the second baseline model, but this time the accuracy has slightly improved compared to the regular BiLSTM model.
 
