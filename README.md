@@ -26,11 +26,11 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 
 ### Source Code
 
-[bert.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
+- [bert.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
 
-[bilstm.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/bilstm.ipynb)
+- [bilstm.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/bilstm.ipynb)
 
-[cnn.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/cnn.ipynb)
+- [cnn.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/cnn.ipynb)
 
 &nbsp;
 
