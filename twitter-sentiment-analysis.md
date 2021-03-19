@@ -109,7 +109,7 @@ Test Loss: 0.45 | Test Acc: 79.47%
 
 ### [Baseline 2]()
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/side-projects/blob/master/twitter_sentiment_bilstm.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bilstm.ipynb)
 
 The second baseline model to be experimented was BiLSTM. The batch size was consistently 128.
 
