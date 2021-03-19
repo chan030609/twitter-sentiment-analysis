@@ -1,4 +1,7 @@
 # Twitter Sentiment Analysis
+
+JL
+
 Date: Mar 19, 2021
 
 <img src = 'https://help.twitter.com/content/dam/help-twitter/brand/logo.png' width='400'>
@@ -7,9 +10,13 @@ Date: Mar 19, 2021
 
 [BERT (Bidirectional Encoder Representations from Transformers)](https://arxiv.org/abs/1810.04805) is a machine learning technique for natural language processing developed by Google. It is known for its multidirectional feedback system and complicated structure. 
 
+&nbsp;
+
 ## Abstract
 
 The project identifies the reason why BERT is a powerful tool for sentimental analysis. By comparing BERT with two baseline models (traditional CNN and BiLSTM), it is concluded that BERT is a powerful neural network for gathering subjectinve information from text. The area of its application is endless.
+
+&nbsp;
 
 ## Contents
 
@@ -23,6 +30,8 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 [bilstm.ipynb]()
 [cnn.ipynb]()
 
+&nbsp;
+
 ## Technologies Used
 - Google Colab Jupyter Notebook with GPU Acceleration 
 - Python (3.9.2)
@@ -30,6 +39,9 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
         - torchtext (0.9.0)
 - BERT
 
+&nbsp;
+
 ## License
 
+[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
