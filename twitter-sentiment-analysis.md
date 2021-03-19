@@ -76,7 +76,7 @@ For more code details, click _"Open in Colab"_.
 
 ### [Baseline 1]()
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/cnn.ipynb)
 
 
 The first baseline model to be experimented was CNN. The batch size was consistently 128.
