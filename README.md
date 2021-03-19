@@ -30,7 +30,7 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 
 [bilstm.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/bilstm.ipynb)
 
-[cnn.ipynb]()
+[cnn.ipynb](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/cnn.ipynb)
 
 &nbsp;
 
