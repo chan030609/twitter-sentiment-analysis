@@ -74,7 +74,7 @@ For more code details, click _"Open in Colab"_.
 
 &nbsp;
 
-### [Baseline 1. Convolutional Neural Network (CNN)]()
+### [Baseline 1]()
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
 
@@ -107,7 +107,7 @@ Test Loss: 0.45 | Test Acc: 79.47%
 
 &nbsp;
 
-### [Baseline 2. Bidirectional Long Short-Term Memory (BiLSTM)]()
+### [Baseline 2]()
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/side-projects/blob/master/twitter_sentiment_bilstm.ipynb)
 
