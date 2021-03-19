@@ -147,7 +147,7 @@ The two baseline models above were experimented under the same condition. Althou
  &nbsp;
 
 ### [BERT]()
-[![Open In Colab](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chan030609/twitter-sentiment-analysis/blob/master/bert.ipynb)
 
 The final model to be experimented was BERT. The batch size was consistently 128.
 
