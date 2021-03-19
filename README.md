@@ -27,7 +27,9 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 ### Source Code
 
 [bert.ipynb]()
+
 [bilstm.ipynb]()
+
 [cnn.ipynb]()
 
 &nbsp;
