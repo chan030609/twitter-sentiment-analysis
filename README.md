@@ -22,7 +22,7 @@ The project identifies the reason why BERT is a powerful tool for sentimental an
 
 ### Full Text
 
-- [twitter-sentiment-analyis.md](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.md)
+- [Click here to open the full text.](https://github.com/chan030609/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.md)
 
 ### Source Code
 
